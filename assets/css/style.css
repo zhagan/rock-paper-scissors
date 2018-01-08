@@ -2,18 +2,18 @@
 /*--- Theme Variables ---*/
 
 :root {
-  --background-color: #aaa;
-  --header-color: #bbb;
-  --header-font-color: #333;
-  --footer-color: #bbb;
-  --footer-font-color: #333;
-  --panel-color: #ccc;
-  --border-color: #222;
-  --main-font-color: #222;
-  --plain-font: Futura, "Trebuchet MS", Arial, sans-serif;
-  --styled-font: 'Arial', Helvetica, sans-serif;
-  --styled-font-color: blue;
-}
+   --background-color: #9FF;
+   --header-color: #3ff;
+   --header-font-color: blue;
+   --footer-color: #BFF;
+   --footer-font-color: blue;
+   --panel-color: #0FF;
+   --border-color: #696;
+   --main-font-color: blue;
+   --plain-font: Futura, "Trebuchet MS", Arial, sans-serif;
+   --styled-font: 'Arial', Helvetica, sans-serif;
+   --styled-font-color: blue;
+  }
 
 /*--- Box Sizing Hack ---*/
 html {
